@@ -1,0 +1,38 @@
+.g-winner-roll{
+    height: 30px;
+    border-bottom: 1px solid #d3d3d3;
+    background-color: #ffffff;
+}
+
+.g-winner-roll img{
+    float: left;
+    margin-left: 10px;
+    margin-top: 7px;
+    display: block;
+    width: 15px;
+    height: 15px;
+}
+.m-countdown{
+    margin-left: 25px;
+    width: 100%;
+    height: 30px;
+}
+
+.m-countdown > a{
+    text-align: left;
+    margin-left: 10px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+    position:absolute;
+    display: none;
+}
+
+.m-countdown > a:first-child{
+    display: block;
+}
+
+.m-countdown > a >span{
+    color: rgb(128,128,128);
+    height: 30px;
+}

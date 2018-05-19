@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="E:\web工具\工具\ENV\jdk18" version="1.8.0_60">
+<bootpath>
+<entry path="E:\web工具\工具\ENV\jdk18\jre\lib\resources.jar"/>
+<entry path="E:\web工具\工具\ENV\jdk18\jre\lib\rt.jar"/>
+<entry path="E:\web工具\工具\ENV\jdk18\jre\lib\sunrsasign.jar"/>
+<entry path="E:\web工具\工具\ENV\jdk18\jre\lib\jsse.jar"/>
+<entry path="E:\web工具\工具\ENV\jdk18\jre\lib\jce.jar"/>
+<entry path="E:\web工具\工具\ENV\jdk18\jre\lib\charsets.jar"/>
+<entry path="E:\web工具\工具\ENV\jdk18\jre\lib\jfr.jar"/>
+<entry path="E:\web工具\工具\ENV\jdk18\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\web工具\工具\ENV\jdk18\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\web工具\工具\ENV\jdk18\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

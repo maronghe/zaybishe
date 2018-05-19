@@ -1,0 +1,61 @@
+/*基本样式*/
+body,table,th,td,input,select,textarea{
+	font-family:Tahoma,Arial;     /*字体*/
+	font-size:12px;               /*字号*/
+	background:#ff80c0;           /*背景色*/
+}
+h1{
+	font-size:23px;
+	color:#ff0000;                /*字体颜色*/
+}
+input,select,textarea{ 
+	border:solid 1px #8080880;    /*边框实线solid，宽度1p，颜色*/
+}
+/*超链接*/
+a{
+	font-family:Verdana; 
+	text-decoration:none;        /*不能带下划线*/
+}
+a:link{
+	color:#ffff00;  
+	text-decoration:none;  
+}
+a:visited{
+	color:#00ff00;  
+	text-decoration:none; 
+}
+a:hover,a:active{
+	color:#33cccc;  
+	text-decoration:underline;
+}
+/*class 选择符*/
+table.mytable{
+	border:solid 1px #ff0066; 
+   border-collapse:collapse;
+
+}
+table.mytable h3{
+		font-size:16px;               /*字号*/
+	background:#00ff40;  
+	color:#FF0068; 
+}
+table.mytable a{
+
+	font-family:Tahoma,Arial;     /*字体*/
+	color:#CC0099;
+	text-decoration:none;
+}
+table.mytable th{
+	background:#FFFFCC;
+	color:red;
+	
+}
+table.mytable td{
+	border:solid 1px #ff8040;
+	background:#00ffff;
+}
+table.mytable td.prompt
+{
+	text-align:center;
+	font-weight:bolder;
+}
